@@ -1,5 +1,11 @@
 title: Sub-section Example TOC
 href: index.yaml
 items:
-  - name: Content page under sub-section
+  - name: UPS Team
+    href: content.md
+  - name: NM Team
+    href: content.md
+  - name: LDS Team
+    href: content.md
+  - name: DC Team
     href: content.md
